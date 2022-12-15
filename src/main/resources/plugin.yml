@@ -1,0 +1,5 @@
+name: StrikePlaceholders
+version: 1.0
+main: me.rcti.strikeplaceholders.Main
+depend: [PlaceholderAPI]
+author: RCTI
